@@ -6,9 +6,6 @@ Word Prediction Application
 ========================================================
 author: Ben Karmay
 date: October 2018
-font-family: arial
-width: 1600
-height: 900
 
 This presentation will provide a brief background on the application, how to use it and how it works.
 
